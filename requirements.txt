@@ -1,0 +1,6 @@
+yfinance>=0.2.40
+langchain-core>=0.3.0
+langchain>=1.0.0
+langchain-anthropic>=1.0.0
+python-dotenv>=1.0.1
+streamlit>=1.40.0

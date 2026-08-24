@@ -1,0 +1,14 @@
+# Compiled files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Build output folders
+bin/
+build/
+dist/
+out/
+obj/
+__pycache__/
